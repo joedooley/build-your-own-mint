@@ -1,8 +1,8 @@
 {
-  "name": "build-your-own-mint",
+  "name": "expense-tracker",
   "private": true,
   "main": "index.js",
-  "author": "Evan You",
+  "author": "Joe Dooley",
   "license": "MIT",
   "scripts": {
     "test": "node index.js",
